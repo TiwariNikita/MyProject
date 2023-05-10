@@ -1,0 +1,18 @@
+                           VS CODE
+1. open the project
+2. set the version
+       nvm 18
+       pyenv local 2
+       nvm update
+       
+3. run npm i // to download the dependency tree
+4. run npm run start
+5. click on the link to get started with the front-end
+
+                         Intellj
+1. open the modules folder of backend
+2. set the jdk to 1.8 from the project structure setting
+3. set the jdbc password in each module in rosources folder 
+4. start the main class to start the srver at the back end
+
+
